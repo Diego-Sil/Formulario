@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -15,6 +15,10 @@
     margin-left: 10%;
 }
 
+#check{
+    display:inline-block;
+}
+
 fieldset{
     border: 0;
 }
@@ -29,7 +33,11 @@ body{
     justify-content: center;
 }
 
-input, select, textarea, button{border-radius: 5px;
+input, select, textarea, button{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #59429d;
+    border-radius: 5px;
 }
 
 .campo{
@@ -88,6 +96,3 @@ fieldset.grupo .campo{
     cursor: pointer;
 }
 
-#check{
-    display:inline-block;
-}
