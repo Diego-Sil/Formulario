@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
 }
@@ -82,7 +82,7 @@ fieldset.grupo .campo{
     position: absolute;
     top: 90%;
     left: 50%;
-    margin-right: -50%;
+    margin-right:-50%;
     transform: translate(-50%, -50%);
 }
 
@@ -95,4 +95,6 @@ fieldset.grupo .campo{
 .botao, select{
     cursor: pointer;
 }
+
+
 
