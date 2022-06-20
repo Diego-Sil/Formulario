@@ -1,2 +1,5 @@
 # Formulario
- Aqui desenvolverei um formulario usando HTML e CSS
+Aqui desenvolverei um formulario usando HTML e CSS, para cadastro de desenvolvedores (DEVs)
+ 
+Para melhor visualização do pojeto:
+https://codepen.io/diego-sil/pen/xxYeBYq
